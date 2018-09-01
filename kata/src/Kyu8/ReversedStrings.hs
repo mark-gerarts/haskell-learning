@@ -5,5 +5,3 @@ module Kyu8.ReversedStrings where
 solution :: String -> String
 solution [] = []
 solution (x:xs) = solution xs ++ [x]
-
--- @todo: add hspec/unit

@@ -1,4 +1,4 @@
-module Kyu8.ReversedStringsSpec (spec) where
+module Kyu8.ReversedStringsSpec where
 
 import Test.Hspec
 import Kyu8.ReversedStrings
