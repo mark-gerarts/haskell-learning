@@ -5,4 +5,4 @@ for personal use.
 
 ## Contents
 
-- **kata/** a collection of small exercises. 
+- **kata/**<br> A collection of small exercises. 
