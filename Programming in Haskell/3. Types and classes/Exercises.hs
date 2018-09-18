@@ -15,8 +15,8 @@ x4 = ([False, True], ['0', '1'])
 
 x5 :: [[a] -> [a]]
 x5 = [tail, init, reverse]
- -- 2. Give definitions for the following types:
 
+ -- 2. Give definitions for the following types:
 bools :: [Bool]
 bools = [True, False]
 
