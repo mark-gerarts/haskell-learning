@@ -1,7 +1,5 @@
 module Queue where
 
-import Prelude
-
 type Queue a = [a]
 
 enqueue :: a -> Queue a -> Queue a
