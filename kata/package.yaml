@@ -23,6 +23,7 @@ dependencies:
 - hspec >= 2.5 && < 3.0
 - QuickCheck >= 2.11 && < 3.0
 - split >= 0.2.3
+- containers >= 0.5
 
 library:
   source-dirs: src
