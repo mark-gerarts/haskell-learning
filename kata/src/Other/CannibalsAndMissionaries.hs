@@ -41,7 +41,7 @@ progress State {cannibals=c, missionaries=m, tarzanDistance=td, hours=h} =
       tarzanSpeed = if isDark then 4 else 7
       newMissionaries = zeroIfNegative (m - (fromIntegral c * eatingRate))
       newDistance = zeroIfNegative (td - tarzanSpeed)
-   in State (c - 1) newMissionaries newDistance (h + 1)
+  in State (c - 1) newMissionaries newDistance (h + 1)
 
 zeroIfNegative :: (Num a, Ord a) => a -> a
 zeroIfNegative x | x < 0 = 0
