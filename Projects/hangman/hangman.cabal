@@ -20,3 +20,4 @@ executable hangman
                      , data-clist
                      , text-zipper
                      , word-wrap
+                     , random
