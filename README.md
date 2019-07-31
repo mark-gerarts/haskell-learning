@@ -5,6 +5,7 @@ for personal use.
 
 ## Contents
 
+- **Haskell Programming** *from first principles*: Exercises for the [Haskell book](http://haskellbook.com/).
 - **Programming in Haskell**: Exercises from Graham Hutton's [Programming in Haskell][programming-in-haskell], sorted per chapter.
 - **Data Structures & Algorithms**: Haskell versions of the ADT's and
   algorithms as discussed in *[Data Structures & Algorithms in Java][DSA]*
