@@ -2,24 +2,24 @@
 
 ## 1. λxy.xz
 
-[x := m]
-λmy.mz
-[y := n]
-λmn.mz (b)
+- [x := m]
+- λmy.mz
+- [y := n]
+- λmn.mz (b)
 
 ## 2. λxy.xxy
 
-[x := a]
-λay.aay
-[y := b]
-λab.aab
-Curry: λa.(λb.aab) (c)
+- [x := a]
+- λay.aay
+- [y := b]
+- λab.aab
+- Curry: λa.(λb.aab) (c)
 
 ## 3. λxyz.zx
 
-[x := t]
-λtyz.zt
-[y := o]
-λtoz:zt
-[z := s]
-λtos:st (b)
+- [x := t]
+- λtyz.zt
+- [y := o]
+- λtoz:zt
+- [z := s]
+- λtos:st (b)
